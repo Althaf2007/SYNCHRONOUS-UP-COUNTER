@@ -55,6 +55,7 @@ Developed by: K.Mohamed Althaf
 
 RegisterNumber:24005994
 */
+
 **TRUTH TABLE**
 
 ![11](https://github.com/user-attachments/assets/96269df9-62a8-4015-9859-724bad176eb3)
